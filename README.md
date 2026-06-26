@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  📍 Nowshera, KPK, Pakistan &nbsp;•&nbsp; BS Computer Science (AI) Student
+  <B>LOCATION :📍</B> Nowshera , KPK , Pakistan &nbsp;
 </p>
-
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=uzairkhan06828@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
   <a href="https://www.linkedin.com/in/Uzairkhan2006"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
@@ -53,10 +52,10 @@
 
 ### 💭 A Little Motivation
 
-> 🚀 Consistency beats intensity — small daily commits build big systems.
-> 📊 Data doesn't lie, but it needs someone patient enough to listen.
-> 🤖 Automate the boring, focus on what's meaningful.
-> 🌱 Still learning, still building, still curious.
+ 🚀 Consistency beats intensity — small daily commits build big systems.<BR>
+ 📊 Data doesn't lie, but it needs someone patient enough to listen.<BR>
+ 🤖 Automate the boring, focus on what's meaningful.<BR>
+ 🌱 Still learning, still building, still curious.<BR>
 
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
