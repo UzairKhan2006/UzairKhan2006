@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=80&lines=Hi+there%2C+I'm+Uzair+Khan+%F0%9F%91%8B;Data+Analyst+%7C+AI+Automation+Engineer;I+turn+complex+data+into+simple%2C+automated+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Russo+One&size=20&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&height=90&letterSpacing=1px&lines=Hi+there%2C+I'm+Uzair+Khan+%F0%9F%91%8B;Data+Analyst+%7C+AI+Automation+Engineer;I+love+turning+complex+data+into+simple%2C+automated+solutions" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:uzairkhan06828@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=uzairkhan06828@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
   <a href="https://www.linkedin.com/in/Uzairkhan2006"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="https://www.x.com/mruk2005"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/mr_uzair_2006"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
@@ -48,25 +48,6 @@
 </p>
 
 **Core Foundations:** Statistics · Probability · Linear Algebra · Calculus
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=UzairKhan2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzairKhan2006&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UzairKhan2006&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
-### 🏆 Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=UzairKhan2006&theme=tokyonight&row=1&column=7&margin-w=8&no-frame=true" width="100%" />
-</p>
 
 ---
 
