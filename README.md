@@ -6,7 +6,9 @@
   <B>LOCATION :📍</B> Nowshera , KPK , Pakistan &nbsp;
 </p>
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=uzairkhan06828@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+   <a href="mailto:uzairkhan06828@gmail.com?subject=Contact%20from%20GitHub&body=Hi%20Uzair,%0A%0A">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+   </a>
   <a href="https://www.linkedin.com/in/Uzairkhan2006"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="https://www.x.com/mruk2005"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/mr_uzair_2006"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
