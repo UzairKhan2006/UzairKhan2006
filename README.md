@@ -20,13 +20,20 @@
 ---
 
 ### 🧠 About Me
-- 🔭 I'm currently working on: Full-stack web applications using the MERN stack.
-- 👯 I'm looking to collaborate on: Open-source MERN stack projects or DSA-focused problem-solving repositories.
-- 🤝 I'm looking for help with: Advanced React patterns, scalable backend architecture, and system design.
-- 🌱 I'm currently learning: Data Structures & Algorithms and the MERN stack (MongoDB, Express.js, React.js, Node.js).
-- 💬 Ask me about: My journey through my first four semesters of Computer Science and building full-stack applications.
-- ⚡ Fun fact: I love solving DSA problems to sharpen my programming logic before writing a single line of app code!
 
+I’m a BS Computer Science student specializing in Artificial Intelligence, passionate about building intelligent systems and solving real-world problems through technology.
+
+Currently, I’m working toward becoming an AI Engineer, strengthening my foundations in Python, NumPy, Pandas, Machine Learning, and Deep Learning, while also developing my problem-solving skills through Data Structures & Algorithms (DSA).
+
+I enjoy understanding how things work under the hood, turning concepts into practical projects, and continuously challenging myself to improve my programming and analytical thinking.
+
+🔹 Currently Learning: AI Engineering • Machine Learning • Deep Learning • DSA
+🔹 Technical Interests: Artificial Intelligence • Generative AI • Agentic AI • Software Engineering
+🔹 Goal: To become a skilled AI Engineer capable of building practical, reliable, and impactful AI solutions.
+
+I’m always open to learning, collaborating, and connecting with people who share an interest in AI, software engineering, and emerging technologies.
+
+🚀 Learning. Building. Solving. Growing.
 ---
 
 ### 🛠️ Tech Stack
